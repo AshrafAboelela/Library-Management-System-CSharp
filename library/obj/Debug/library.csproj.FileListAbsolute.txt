@@ -1,0 +1,82 @@
+C:\Users\ashraf\Desktop\library\library\library\bin\Debug\library.exe.config
+C:\Users\ashraf\Desktop\library\library\library\obj\Debug\library.csprojResolveAssemblyReference.cache
+C:\Users\ashraf\Desktop\library\library\library\obj\Debug\library.Properties.Resources.resources
+C:\Users\ashraf\Desktop\library\library\library\obj\Debug\library.csproj.GenerateResource.Cache
+C:\Users\ashraf\Desktop\library\library\library\obj\Debug\library.exe.licenses
+C:\Users\ashraf\Desktop\library\library\library\bin\Debug\library.exe
+C:\Users\ashraf\Desktop\library\library\library\bin\Debug\library.pdb
+C:\Users\ashraf\Desktop\library\library\library\obj\Debug\library.exe
+C:\Users\ashraf\Desktop\library\library\library\obj\Debug\library.pdb
+C:\Users\ashraf\Desktop\library\library\library\obj\Debug\library.RibbonForm1.resources
+C:\Users\ashraf\Desktop\library\library\library\obj\Debug\library.BasicData.custdata.resources
+C:\Users\ashraf\Desktop\library\library\library\obj\Debug\library.BasicData.empdata.resources
+C:\Users\ashraf\Desktop\library\library\library\obj\Debug\library.BasicData.itemcategory.resources
+C:\Users\ashraf\Desktop\library\library\library\obj\Debug\library.BasicData.itemdata.resources
+C:\Users\ashraf\Desktop\library\library\library\obj\Debug\library.BasicData.jobtype.resources
+C:\Users\ashraf\Desktop\library\library\library\obj\Debug\library.BasicData.storeconvert.resources
+C:\Users\ashraf\Desktop\library\library\library\obj\Debug\library.BasicData.storedata.resources
+C:\Users\ashraf\Desktop\library\library\library\obj\Debug\library.BasicData.vendata.resources
+C:\Users\ashraf\Desktop\desktop\library - Copy\library\library\bin\Debug\library.exe.config
+C:\Users\ashraf\Desktop\desktop\library - Copy\library\library\obj\Debug\library.exe
+C:\Users\ashraf\Desktop\desktop\library - Copy\library\library\obj\Debug\library.pdb
+C:\Users\ashraf\Desktop\library - Copy\library\library\bin\Debug\library.exe.config
+C:\Users\ashraf\Desktop\library - Copy\library\library\obj\Debug\library.exe
+C:\Users\ashraf\Desktop\library - Copy\library\library\obj\Debug\library.pdb
+C:\Users\ashraf\Desktop\library\library\bin\Debug\library.exe.config
+C:\Users\ashraf\Desktop\library\library\obj\Debug\library.exe
+C:\Users\ashraf\Desktop\library\library\obj\Debug\library.pdb
+C:\Users\ashraf\Desktop\library\library\bin\Debug\library.exe
+C:\Users\ashraf\Desktop\library\library\bin\Debug\library.pdb
+C:\Users\ashraf\Desktop\library\library\obj\Debug\library.csprojResolveAssemblyReference.cache
+C:\Users\ashraf\Desktop\library\library\obj\Debug\library.BasicData.custdata.resources
+C:\Users\ashraf\Desktop\library\library\obj\Debug\library.BasicData.empdata.resources
+C:\Users\ashraf\Desktop\library\library\obj\Debug\library.BasicData.itemcategory.resources
+C:\Users\ashraf\Desktop\library\library\obj\Debug\library.BasicData.itemdata.resources
+C:\Users\ashraf\Desktop\library\library\obj\Debug\library.BasicData.jobtype.resources
+C:\Users\ashraf\Desktop\library\library\obj\Debug\library.BasicData.storeconvert.resources
+C:\Users\ashraf\Desktop\library\library\obj\Debug\library.BasicData.storedata.resources
+C:\Users\ashraf\Desktop\library\library\obj\Debug\library.BasicData.vendata.resources
+C:\Users\ashraf\Desktop\library\library\obj\Debug\library.Properties.Resources.resources
+C:\Users\ashraf\Desktop\library\library\obj\Debug\library.RibbonForm1.resources
+C:\Users\ashraf\Desktop\library\library\obj\Debug\library.csproj.GenerateResource.Cache
+C:\Users\ashraf\Desktop\library\library\obj\Debug\library.exe.licenses
+C:\Users\ashraf\Desktop\library\library\obj\Debug\library.BasicData.cust_account_data.resources
+C:\Users\ashraf\Desktop\library\library\obj\Debug\library.BasicData.cust_account_popup.resources
+C:\Users\ashraf\Desktop\library\library\obj\Debug\library.BasicData.distributeitems.resources
+C:\Users\ashraf\Desktop\library\library\obj\Debug\library.BasicData.purchases_data.resources
+C:\Users\ashraf\Desktop\library\library\obj\Debug\library.BasicData.sales_data.resources
+C:\Users\ashraf\Desktop\library\library\obj\Debug\library.BasicData.ven_account_data.resources
+C:\Users\ashraf\Desktop\library\library\obj\Debug\library.BasicData.ven_account_popup.resources
+C:\Users\ashraf\Desktop\library - Copy\library\bin\Debug\library.exe.config
+C:\Users\ashraf\Desktop\library - Copy\library\obj\Debug\library.exe
+C:\Users\ashraf\Desktop\library - Copy\library\obj\Debug\library.pdb
+C:\Users\ashraf\Desktop\library -\library\bin\Debug\library.exe.config
+C:\Users\ashraf\Desktop\library -\library\obj\Debug\library.exe
+C:\Users\ashraf\Desktop\library -\library\obj\Debug\library.pdb
+C:\Users\ashraf\Desktop\library -\library\obj\Debug\library.BasicData.custdata.resources
+C:\Users\ashraf\Desktop\library -\library\obj\Debug\library.BasicData.cust_account_data.resources
+C:\Users\ashraf\Desktop\library -\library\obj\Debug\library.BasicData.cust_account_popup.resources
+C:\Users\ashraf\Desktop\library -\library\obj\Debug\library.BasicData.distributeitems.resources
+C:\Users\ashraf\Desktop\library -\library\obj\Debug\library.BasicData.empdata.resources
+C:\Users\ashraf\Desktop\library -\library\obj\Debug\library.BasicData.itemcategory.resources
+C:\Users\ashraf\Desktop\library -\library\obj\Debug\library.BasicData.itemdata.resources
+C:\Users\ashraf\Desktop\library -\library\obj\Debug\library.BasicData.jobtype.resources
+C:\Users\ashraf\Desktop\library -\library\obj\Debug\library.BasicData.purchases_data.resources
+C:\Users\ashraf\Desktop\library -\library\obj\Debug\library.BasicData.sales_data.resources
+C:\Users\ashraf\Desktop\library -\library\obj\Debug\library.BasicData.storeconvert.resources
+C:\Users\ashraf\Desktop\library -\library\obj\Debug\library.BasicData.storedata.resources
+C:\Users\ashraf\Desktop\library -\library\obj\Debug\library.BasicData.vendata.resources
+C:\Users\ashraf\Desktop\library -\library\obj\Debug\library.BasicData.ven_account_data.resources
+C:\Users\ashraf\Desktop\library -\library\obj\Debug\library.BasicData.ven_account_popup.resources
+C:\Users\ashraf\Desktop\library -\library\obj\Debug\library.Properties.Resources.resources
+C:\Users\ashraf\Desktop\library -\library\obj\Debug\library.RibbonForm1.resources
+C:\Users\ashraf\Desktop\library -\library\obj\Debug\library.csproj.GenerateResource.Cache
+C:\Users\ashraf\Desktop\library -\library\obj\Debug\library.exe.licenses
+C:\Users\ashraf\Desktop\library -\library\bin\Debug\library.exe
+C:\Users\ashraf\Desktop\library -\library\bin\Debug\library.pdb
+C:\Users\ashraf\Desktop\library -\library\obj\Debug\library.csprojResolveAssemblyReference.cache
+C:\Users\ashraf\Desktop\library -\library\obj\Debug\Interop.CrystalActiveXReportViewerLib14.dll
+C:\Users\ashraf\Desktop\library -\library\obj\Debug\AxInterop.CrystalActiveXReportViewerLib14.dll
+C:\Users\ashraf\Desktop\library -\library\obj\Debug\library.csproj.ResolveComReference.cache
+C:\Users\ashraf\Desktop\library -\library\bin\Debug\Interop.CrystalActiveXReportViewerLib14.dll
+C:\Users\ashraf\Desktop\library -\library\bin\Debug\AxInterop.CrystalActiveXReportViewerLib14.dll
